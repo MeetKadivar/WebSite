@@ -8309,3 +8309,7 @@ header {
   height: 60px;
   
 }
+.banner-title{
+  font-weight: 700;
+  /* color: orange; */
+}

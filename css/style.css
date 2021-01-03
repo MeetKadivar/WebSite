@@ -8311,5 +8311,20 @@ header {
 }
 .banner-title{
   font-weight: 700;
-  /* color: orange; */
+  font-size: 34px
+ 
+}
+.product-box{
+  border: 1px solid #d1d1d1;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  margin: 2px;
+  height: 300px;
+}
+.logo{
+  height:50px;
+  width: 100px;
 }
